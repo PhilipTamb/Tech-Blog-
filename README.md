@@ -37,3 +37,5 @@
 ### [Hussein Nasser](https://www.husseinnasser.com/search)
 
 ### [Scott Helme](https://scotthelme.co.uk)
+
+### [1024 Core](https://www.1024cores.net)
